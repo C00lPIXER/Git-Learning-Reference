@@ -1,12 +1,6 @@
-```markdown
 # Git Basics
 
 ## What is Git?
-
-<!-- 
-Git is a distributed version control system (VCS) used to track changes in files and coordinate work among multiple people. 
-It allows developers to manage their projects effectively, ensuring collaboration and version history.
--->
 
 <!-- Key Features -->
 - **Distributed System**: 
@@ -27,13 +21,6 @@ It allows developers to manage their projects effectively, ensuring collaboratio
 
 ## Git vs GitHub
 
-<!-- 
-Common confusion between Git and GitHub:
-
-- **Git**: A version control tool to manage code locally and track changes.
-- **GitHub**: A cloud-based platform for hosting and collaborating on Git repositories.
--->
-
 - Git:
   - Installed locally on your system.
   - Handles operations like commits, branches, merges, and logs.
@@ -44,13 +31,6 @@ Common confusion between Git and GitHub:
 ---
 
 ## Why Learn Git?
-
-<!-- 
-Git is essential for:
-- Managing code changes efficiently in software development.
-- Collaborating with teams on shared projects.
-- Maintaining a history of the project for rollback or review.
--->
 
 - **Track Changes**:
   - Maintain a detailed log of all changes made to the project.
@@ -65,14 +45,6 @@ Git is essential for:
 
 ## How Git Works
 
-<!-- 
-Git's architecture revolves around four key areas:
-1. Working Directory
-2. Staging Area
-3. Local Repository
-4. Remote Repository
--->
-
 - **Working Directory**:
   - The folder on your system where files are created and modified.
 - **Staging Area**:
@@ -86,15 +58,7 @@ Git's architecture revolves around four key areas:
 
 ---
 
-## Git Workflow
-
-<!-- 
-Git workflow consists of:
-1. Modifying files in the working directory.
-2. Staging changes using `git add`.
-3. Committing changes to the local repository with `git commit`.
-4. Pushing to a remote repository using `git push`.
--->
+## Git Workflow 
 
 - **Step 1**: Modify files in the working directory.
 
@@ -117,10 +81,6 @@ Git workflow consists of:
 
 ## Frequently Asked Questions (FAQs)
 
-<!-- 
-FAQs to clarify common doubts about Git:
--->
-
 1. **Can I use Git without GitHub?**
    - Yes, Git can be used locally for version control without GitHub.
    - GitHub is optional for hosting repositories remotely.
@@ -131,4 +91,3 @@ FAQs to clarify common doubts about Git:
 
 3. **Is Git only for coding projects?**
    - No, Git can track changes for any text-based project, including documentation, books, or research papers.
-```
